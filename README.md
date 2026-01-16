@@ -65,7 +65,8 @@ The project includes an interactive Streamlit app that allows users to:
 ## 🚀 How to Run the App
 
 ### Option 1: View Online (Recommended)
-If deployed on Streamlit Community Cloud, simply open the public app link list below.
+Simply open the public app link list below.
+
 URL: https://csealphamodel-qjn3xmebgiuezy8mpcwxhc.streamlit.app/
 
 ### Option 2: Run Locally
